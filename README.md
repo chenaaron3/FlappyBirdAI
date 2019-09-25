@@ -8,7 +8,7 @@ Revisited: March 2019
 **Simulation Background**
   This game simulation was inspired by the 2014 mobile hit game "Flappy Bird". In the build, I present a neural network trained within minutes that can successfully dodge thousands of obstacles. The move set in this game is simply to jump or not to jump.
 
-**Where To Play**
+**Where To Play**  
   https://simmer.io/@apkirito/flappyai
 
 **How To Play**
